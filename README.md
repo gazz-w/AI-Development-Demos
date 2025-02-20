@@ -26,18 +26,16 @@ openai
 
 Install the dependencies with:
 
-bash
-Copiar
-Editar
+```bash
 pip install -r requirements.txt
+``` 
 Run a project:
 Example for the chatbot project:
-
-bash
-Copiar
-Editar
+```bash
 cd chatbot
 python chatbot.py
+```
+
 📝 Example Project: Chatbot
 The chatbot folder contains a conversational agent using the BlenderBot model from Hugging Face’s Transformers library. It maintains conversation history, handles token limits, and provides contextual responses.
 
@@ -47,8 +45,6 @@ The chatbot folder contains a conversational agent using the BlenderBot model fr
 ✅ AI - Sales Assistant
 ✅ Image Classification (Coming soon)
 ✅ Prompt Router
-
-
 
 🙌 Acknowledgments
 Hugging Face Transformers
