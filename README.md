@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Example for the chatbot project:
 
 ```bash
-cd chatbot
+cd chatbot_foundation
 python chatbot.py
 ```
 
