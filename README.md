@@ -1,7 +1,3 @@
-Here’s your **README** properly formatted and kept in English:
-
----
-
 # 🧠 AI Development Demos
 
 Welcome to the **AI Development Demos** repository!  
